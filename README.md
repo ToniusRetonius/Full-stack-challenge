@@ -33,7 +33,7 @@ You can also select any other technologies that you think are necessary. You sho
 - **Design of the solution**.
 
 # Solución
-El trabajo se divide en dos partes :
+El trabajo se divide en tres partes :
 
 ## Front-End
 - [Código Front](https://github.com/ToniusRetonius/Full-stack-challenge/tree/main/login-front)
